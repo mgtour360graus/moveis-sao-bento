@@ -1,0 +1,170 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = FAÇA UM TOUR 360 GRAUS
+
+### Title
+tour.name = MÓVEIS SÃO BENTO MARINGÁ
+
+## Skin
+
+### Button
+Button_062AF830_1140_E215_418D_D2FC11B12C47.label = LOREM IPSUM
+Button_062AF830_1140_E215_418D_D2FC11B12C47_mobile.label = LOREM IPSUM
+Button_30A8346C_169B_D324_419F_4B974E975BB8.label = ATENDIMENTO ON-LINE
+Button_30A8346C_169B_D324_419F_4B974E975BB8_mobile.label = ATENDIMENTO ON-LINE
+Button_368F5A18_169E_B6EC_4172_A02228FB3082.label = AGENDE SEU HORÁRIO
+Button_368F5A18_169E_B6EC_4172_A02228FB3082_mobile.label = AGENDE SEU HORÁRIO
+
+### Multiline Text
+HTMLText_062AD830_1140_E215_41B0_321699661E7F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.610000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:7.61vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.7vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Montserrat';"><B>LOREM IPSUM</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.7vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Montserrat';"><B>DOLOR SIT AMET</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.9599999999999997vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:1.96vh;font-family:'Montserrat';"><B>CONSECTETUR ADIPISCING ELIT. MORBI BIBENDUM PHARETRA LOREM, ACCUMSAN SAN NULLA.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2000000000000004vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2000000000000004vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></DIV><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.9599999999999997vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.96vh;font-family:'Montserrat';"><B>DONEC FEUGIAT:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.740000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.74vh;"> </SPAN>• Nisl nec mi sollicitudin facilisis </SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2000000000000004vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"> • Nam sed faucibus est.</SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2000000000000004vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"> • Ut eget lorem sed leo.</SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2000000000000004vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"> • Sollicitudin tempor sit amet non urna. </SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2000000000000004vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"> • Aliquam feugiat mauris sit amet.</SPAN></DIV><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.9599999999999997vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.96vh;font-family:'Montserrat';"><B>LOREM IPSUM:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.83vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:2.83vh;font-family:'Oswald';"><B>$150,000</B></SPAN></SPAN></DIV></div>
+HTMLText_062AD830_1140_E215_41B0_321699661E7F_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.610000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:7.61vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.7vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Montserrat';"><B>LOREM IPSUM</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.7vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Montserrat';"><B>DOLOR SIT AMET</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.9599999999999997vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:1.96vh;font-family:'Montserrat';"><B>CONSECTETUR ADIPISCING ELIT. MORBI BIBENDUM PHARETRA LOREM, ACCUMSAN SAN NULLA.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2000000000000004vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2000000000000004vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></DIV><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.9599999999999997vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.96vh;font-family:'Montserrat';"><B>DONEC FEUGIAT:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.740000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.74vh;"> </SPAN>• Nisl nec mi sollicitudin facilisis </SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2000000000000004vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"> • Nam sed faucibus est.</SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2000000000000004vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"> • Ut eget lorem sed leo.</SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2000000000000004vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"> • Sollicitudin tempor sit amet non urna. </SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2000000000000004vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"> • Aliquam feugiat mauris sit amet.</SPAN></DIV><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.9599999999999997vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.96vh;font-family:'Montserrat';"><B>LOREM IPSUM:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.83vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:2.83vh;font-family:'Oswald';"><B>$150,000</B></SPAN></SPAN></DIV></div>
+HTMLText_0B42C466_11C0_623D_4193_9FAB57A5AC33.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.610000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:7.61vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.7vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Montserrat';"><B>LOREM IPSUM</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.7vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Montserrat';"><B>DOLOR SIT AMET</B></SPAN></SPAN></DIV></div>
+HTMLText_0B42C466_11C0_623D_4193_9FAB57A5AC33_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.610000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:7.61vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.7vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Montserrat';"><B>LOREM IPSUM</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.7vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Montserrat';"><B>DOLOR SIT AMET</B></SPAN></SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.0700000000000016vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:2.07vh;font-family:'Montserrat';"><B>JOHN DOE</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.740000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.74vh;font-family:'Montserrat';"><B>LICENSED REAL ESTATE SALESPERSON</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.31vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.31vh;font-family:'Montserrat';"><B>Tlf.: +11 111 111 111</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.31vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.31vh;font-family:'Montserrat';"><B>jhondoe@realestate.com</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.31vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.31vh;font-family:'Montserrat';"><B>www.loremipsum.com</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2000000000000004vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.0700000000000016vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:2.07vh;font-family:'Montserrat';"><B>JOHN DOE</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.740000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.74vh;font-family:'Montserrat';"><B>LICENSED REAL ESTATE SALESPERSON</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.31vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.31vh;font-family:'Montserrat';"><B>Tlf.: +11 111 111 111</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.31vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.31vh;font-family:'Montserrat';"><B>jhondoe@realestate.com</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.31vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.31vh;font-family:'Montserrat';"><B>www.loremipsum.com</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2000000000000004vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></DIV></div>
+
+### Label
+Label_0C5F23A8_3BA0_A6FF_419F_468451E37918.text = DOLOR SIT AMET
+Label_3A5C4C32_2EA5_3C94_4196_61AA16E78A1D.text = MARINGÁ
+Label_3A5C4C32_2EA5_3C94_4196_61AA16E78A1D_mobile.text = MARINGÁ
+
+## Media
+
+### Title
+album_13AA4188_36A1_1861_41B8_B0B5998C50AD.label = Álbum de Fotos aparadormesadecentroelateralthais1623776923
+album_13AA4188_36A1_1861_41B8_B0B5998C50AD_0.label = aparadormesadecentroelateralthais1623776923
+album_13AA4188_36A1_1861_41B8_B0B5998C50AD_1.label = bannerhomesestanteseracks1623691247
+album_13AA4188_36A1_1861_41B8_B0B5998C50AD_10.label = mesaconecomcadeiraseaparadorluna1623782164
+album_13AA4188_36A1_1861_41B8_B0B5998C50AD_11.label = mesadecentroelateralhelena1623776606
+album_13AA4188_36A1_1861_41B8_B0B5998C50AD_12.label = mesaeliscomcadeirasmichele1623779508
+album_13AA4188_36A1_1861_41B8_B0B5998C50AD_13.label = mesahelenacomcadeirasluna1623782526
+album_13AA4188_36A1_1861_41B8_B0B5998C50AD_14.label = mesaheloisacomcadeirasheloisa1623782099
+album_13AA4188_36A1_1861_41B8_B0B5998C50AD_15.label = mesaisabelcomcadeirasisabel1623782250
+album_13AA4188_36A1_1861_41B8_B0B5998C50AD_16.label = mesajadecomcadeirashelena1623780390
+album_13AA4188_36A1_1861_41B8_B0B5998C50AD_17.label = mesakiracomcadeirasayla1623781785
+album_13AA4188_36A1_1861_41B8_B0B5998C50AD_18.label = mesamalucomcadeiraskira1623781177
+album_13AA4188_36A1_1861_41B8_B0B5998C50AD_19.label = mesamalucomcadeirasmalu1623780886
+album_13AA4188_36A1_1861_41B8_B0B5998C50AD_2.label = bannersalasdejantar1623691228
+album_13AA4188_36A1_1861_41B8_B0B5998C50AD_20.label = mesamarinacomcadeirasmarina1623780774
+album_13AA4188_36A1_1861_41B8_B0B5998C50AD_21.label = mesasarahcomcadeirassarah1623782614
+album_13AA4188_36A1_1861_41B8_B0B5998C50AD_22.label = mesasdecentroelateraltassie1623776850
+album_13AA4188_36A1_1861_41B8_B0B5998C50AD_23.label = mesaslateraisliz1623776735
+album_13AA4188_36A1_1861_41B8_B0B5998C50AD_24.label = mesatassiecomcadeirastassie1623780587
+album_13AA4188_36A1_1861_41B8_B0B5998C50AD_25.label = painelnicole1623775535
+album_13AA4188_36A1_1861_41B8_B0B5998C50AD_26.label = produtos
+album_13AA4188_36A1_1861_41B8_B0B5998C50AD_27.label = rackepainellivia1623775723
+album_13AA4188_36A1_1861_41B8_B0B5998C50AD_28.label = rackepainelluna1623775839
+album_13AA4188_36A1_1861_41B8_B0B5998C50AD_29.label = racksuzie1623775429
+album_13AA4188_36A1_1861_41B8_B0B5998C50AD_3.label = banquetajulia1623760896
+album_13AA4188_36A1_1861_41B8_B0B5998C50AD_4.label = cadeiradara1623774808
+album_13AA4188_36A1_1861_41B8_B0B5998C50AD_5.label = cadeiramelina1623768230
+album_13AA4188_36A1_1861_41B8_B0B5998C50AD_6.label = carrinhobarisabela1623776016
+album_13AA4188_36A1_1861_41B8_B0B5998C50AD_7.label = cristaleiravictoria1623775339
+album_13AA4188_36A1_1861_41B8_B0B5998C50AD_8.label = logo
+album_13AA4188_36A1_1861_41B8_B0B5998C50AD_9.label = mesaanitacomcadeirasmichele1623780254
+album_16AD6FDD_36A7_07E3_41C3_72A2A99AC2D6.label = Álbum de Fotos foto_24_14
+album_16AD6FDD_36A7_07E3_41C3_72A2A99AC2D6_0.label = foto_24_14
+album_16AD6FDD_36A7_07E3_41C3_72A2A99AC2D6_1.label = foto_130_57
+album_16AD6FDD_36A7_07E3_41C3_72A2A99AC2D6_10.label = foto_214_87
+album_16AD6FDD_36A7_07E3_41C3_72A2A99AC2D6_11.label = foto_215_88
+album_16AD6FDD_36A7_07E3_41C3_72A2A99AC2D6_12.label = foto_216_88
+album_16AD6FDD_36A7_07E3_41C3_72A2A99AC2D6_13.label = foto_221_93
+album_16AD6FDD_36A7_07E3_41C3_72A2A99AC2D6_14.label = foto_234_75
+album_16AD6FDD_36A7_07E3_41C3_72A2A99AC2D6_15.label = foto_235_75
+album_16AD6FDD_36A7_07E3_41C3_72A2A99AC2D6_16.label = foto_236_97
+album_16AD6FDD_36A7_07E3_41C3_72A2A99AC2D6_17.label = foto_237_104
+album_16AD6FDD_36A7_07E3_41C3_72A2A99AC2D6_18.label = foto_239_103
+album_16AD6FDD_36A7_07E3_41C3_72A2A99AC2D6_2.label = foto_131_57
+album_16AD6FDD_36A7_07E3_41C3_72A2A99AC2D6_3.label = foto_156_65
+album_16AD6FDD_36A7_07E3_41C3_72A2A99AC2D6_4.label = foto_166_69
+album_16AD6FDD_36A7_07E3_41C3_72A2A99AC2D6_5.label = foto_167_69
+album_16AD6FDD_36A7_07E3_41C3_72A2A99AC2D6_6.label = foto_186_81
+album_16AD6FDD_36A7_07E3_41C3_72A2A99AC2D6_7.label = foto_187_81
+album_16AD6FDD_36A7_07E3_41C3_72A2A99AC2D6_8.label = foto_190_83
+album_16AD6FDD_36A7_07E3_41C3_72A2A99AC2D6_9.label = foto_191_83
+album_2AA470BB_366F_19A7_419F_AD4FD9F0551E.label = Álbum de Fotos aparadormesadecentroelateralthais1623776923
+album_2AA470BB_366F_19A7_419F_AD4FD9F0551E_0.label = aparadormesadecentroelateralthais1623776923
+album_2AA470BB_366F_19A7_419F_AD4FD9F0551E_1.label = bannerhomesestanteseracks1623691247
+album_2AA470BB_366F_19A7_419F_AD4FD9F0551E_10.label = mesaconecomcadeiraseaparadorluna1623782164
+album_2AA470BB_366F_19A7_419F_AD4FD9F0551E_11.label = mesadecentroelateralhelena1623776606
+album_2AA470BB_366F_19A7_419F_AD4FD9F0551E_12.label = mesaeliscomcadeirasmichele1623779508
+album_2AA470BB_366F_19A7_419F_AD4FD9F0551E_13.label = mesahelenacomcadeirasluna1623782526
+album_2AA470BB_366F_19A7_419F_AD4FD9F0551E_14.label = mesaheloisacomcadeirasheloisa1623782099
+album_2AA470BB_366F_19A7_419F_AD4FD9F0551E_15.label = mesaisabelcomcadeirasisabel1623782250
+album_2AA470BB_366F_19A7_419F_AD4FD9F0551E_16.label = mesajadecomcadeirashelena1623780390
+album_2AA470BB_366F_19A7_419F_AD4FD9F0551E_17.label = mesakiracomcadeirasayla1623781785
+album_2AA470BB_366F_19A7_419F_AD4FD9F0551E_18.label = mesamalucomcadeiraskira1623781177
+album_2AA470BB_366F_19A7_419F_AD4FD9F0551E_19.label = mesamalucomcadeirasmalu1623780886
+album_2AA470BB_366F_19A7_419F_AD4FD9F0551E_2.label = bannersalasdejantar1623691228
+album_2AA470BB_366F_19A7_419F_AD4FD9F0551E_20.label = mesamarinacomcadeirasmarina1623780774
+album_2AA470BB_366F_19A7_419F_AD4FD9F0551E_21.label = mesasarahcomcadeirassarah1623782614
+album_2AA470BB_366F_19A7_419F_AD4FD9F0551E_22.label = mesasdecentroelateraltassie1623776850
+album_2AA470BB_366F_19A7_419F_AD4FD9F0551E_23.label = mesaslateraisliz1623776735
+album_2AA470BB_366F_19A7_419F_AD4FD9F0551E_24.label = mesatassiecomcadeirastassie1623780587
+album_2AA470BB_366F_19A7_419F_AD4FD9F0551E_25.label = painelnicole1623775535
+album_2AA470BB_366F_19A7_419F_AD4FD9F0551E_26.label = produtos
+album_2AA470BB_366F_19A7_419F_AD4FD9F0551E_27.label = rackepainellivia1623775723
+album_2AA470BB_366F_19A7_419F_AD4FD9F0551E_28.label = rackepainelluna1623775839
+album_2AA470BB_366F_19A7_419F_AD4FD9F0551E_29.label = racksuzie1623775429
+album_2AA470BB_366F_19A7_419F_AD4FD9F0551E_3.label = banquetajulia1623760896
+album_2AA470BB_366F_19A7_419F_AD4FD9F0551E_4.label = cadeiradara1623774808
+album_2AA470BB_366F_19A7_419F_AD4FD9F0551E_5.label = cadeiramelina1623768230
+album_2AA470BB_366F_19A7_419F_AD4FD9F0551E_6.label = carrinhobarisabela1623776016
+album_2AA470BB_366F_19A7_419F_AD4FD9F0551E_7.label = cristaleiravictoria1623775339
+album_2AA470BB_366F_19A7_419F_AD4FD9F0551E_8.label = logo
+album_2AA470BB_366F_19A7_419F_AD4FD9F0551E_9.label = mesaanitacomcadeirasmichele1623780254
+panorama_11DCD432_39A1_38A6_41A7_6CEDCD5754B4.label = Móveis São Bento
+panorama_2182E757_2DC8_C8BC_41A1_CE26B0719E86.label = Móveis São Bento  Maringá (2)
+panorama_219A917B_2DC8_4B74_41BF_2A252466A82E.label = Móveis São Bento  Maringá (26)
+panorama_219AA97D_2DC8_5B6D_418C_AAD39EBDD925.label = Móveis São Bento  Maringá (24)
+panorama_219ADD51_2DC8_78B4_41C5_16716BCACC2C.label = Móveis São Bento  Maringá (25)
+panorama_219CD00B_2DC9_C895_41C2_9E46DD2FC869.label = Móveis São Bento  Maringá (9)
+panorama_219D2E60_2DC8_5893_41C0_0C4198B04127.label = Móveis São Bento  Maringá (13)
+panorama_219D4CD5_2DCF_D9BC_41BB_139FCE2DD1B9.label = Móveis São Bento  Maringá (21)
+panorama_219D553A_2DCF_C8F4_41A4_3FD9F48EC757.label = Móveis São Bento  Maringá (23)
+panorama_219D5C07_2DC8_B89D_41C0_A2334FF7DABE.label = Móveis São Bento  Maringá (17)
+panorama_219D760F_2DC8_C8AC_41BB_039F54DECD02.label = Móveis São Bento  Maringá (15)
+panorama_219D80EA_2DCF_C994_41A0_3D5CFCD73AE8.label = Móveis São Bento  Maringá (22)
+panorama_219D8968_2DCF_B893_41C4_2658A722570A.label = Móveis São Bento  Maringá (20)
+panorama_219DB07C_2DC8_496C_41B0_16A188DFBF99.label = Móveis São Bento  Maringá (18)
+panorama_219DC4F7_2DC8_497C_419E_F3DEA17D983E.label = Móveis São Bento  Maringá (19)
+panorama_219E9960_2DC8_D895_41BF_1E8E71CA78EA.label = Móveis São Bento  Maringá (16)
+panorama_219EA19E_2DC8_CBAC_419B_C73D255348F3.label = Móveis São Bento  Maringá (14)
+panorama_219EC9E7_2DC8_7B9C_41BE_936D48AAB8EE.label = Móveis São Bento  Maringá (12)
+panorama_219ED661_2DC8_4894_41B3_F7649EF6C3B7.label = Móveis São Bento  Maringá (11)
+panorama_219F037E_2DC9_CF6F_41BB_ADFA4E4768E6.label = Móveis São Bento  Maringá (10)
+panorama_219F3541_2DC8_4894_4198_CF88AA1D0FBF.label = Móveis São Bento  Maringá (6)
+panorama_219F5917_2DC9_B8BC_41BA_8DA3FF8FC8D0.label = Móveis São Bento  Maringá (7)
+panorama_219F7256_2DC8_48BC_41C2_868D247BFEAC.label = Móveis São Bento  Maringá (5)
+panorama_219F7C8B_2DC9_D994_4194_066CE9D8A6F8.label = Móveis São Bento  Maringá (8)
+panorama_219FCB88_2DC8_DF93_4197_A217CF7AC130.label = Móveis São Bento  Maringá (3)
+panorama_219FFE7A_2DC8_B977_41C2_2158CD5972DB.label = Móveis São Bento  Maringá (4)
+panorama_2204910E_2DC8_C8AC_4198_424AC950FAAD.label = Móveis São Bento  Maringá (1)
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_08D25F4A_3A9F_08E6_41B5_F61F96E98460.toolTip = MÓVEIS SÃO BENTO
+
+## Action
+
+### URL
+LinkBehaviour_046B2FBE_127A_CD24_41B1_1FCB90D0A7CC.source = https://www.google.com/maps?cid=3539673752181354597
+LinkBehaviour_0470A99B_127A_D5EC_41A0_9C95918FDF46.source = mailto:contato@moveissaobento.com.br
+LinkBehaviour_04D65727_128D_7D23_41AC_EA39D9C0BD3F.source = https://www.facebook.com/moveissaobentooficial
+LinkBehaviour_0AE89710_3AE1_7861_4196_D706745668BA.source = https://api.whatsapp.com/send?phone=5544991483870&text=Ol%C3%A1%20vim%20atrav%C3%A9s%20do%20Tour%20360%C2%BA%20e%20quero%20agendar%20um%20hor%C3%A1rio....
+LinkBehaviour_0AEF5711_3AE1_7863_4191_AC160C9A1E84.source = https://api.whatsapp.com/send?phone=5544991483870&text=Ol%C3%A1%20vim%20atrav%C3%A9s%20do%20Tour%20360%C2%BA%20e%20que%20atendimento%20on-line%20
+LinkBehaviour_0AF726F1_3AE1_79A2_41C1_9FBE10CEC48E.source = https://www.facebook.com/moveissaobentooficial
+LinkBehaviour_0AF776F0_3AE1_79A2_41C0_74809CA5B6D8.source = https://www.instagram.com/moveissaobentooficial/
+LinkBehaviour_0AF796F2_3AE1_79A6_41C6_1DEAA08BCAB2.source = mailto:contato@moveissaobento.com.br
+LinkBehaviour_0AF7D6F1_3AE1_79A2_4184_F12CB2CFD4E7.source = https://api.whatsapp.com/send?phone=5544991483870&text=Ol%C3%A1%20vim%20atrav%C3%A9s%20do%20Tour%20360%C2%BA
+LinkBehaviour_0AF7F6F2_3AE1_79A6_4188_5981ED9195A4.source = https://www.google.com/maps?cid=3539673752181354597
+LinkBehaviour_0BA3BF29_1296_CD2C_41A0_DE90F4CB9391.source = https://www.instagram.com/moveissaobentooficial/
+LinkBehaviour_24928C56_12BA_D364_418B_70640F4E2147.source = https://api.whatsapp.com/send?phone=5544991483870&text=Ol%C3%A1%20vim%20atrav%C3%A9s%20do%20Tour%20360%C2%BA%20e%20que%20atendimento%20on-line%20
+LinkBehaviour_24A8697D_12B5_5524_41AB_035152B318C4.source = https://api.whatsapp.com/send?phone=5544991483870&text=Ol%C3%A1%20vim%20atrav%C3%A9s%20do%20Tour%20360%C2%BA%20e%20quero%20agendar%20um%20hor%C3%A1rio....
+LinkBehaviour_261DED04_12B7_72E4_41AF_AC44DFBB0802.source = https://api.whatsapp.com/send?phone=5544991483870&text=Ol%C3%A1%20vim%20atrav%C3%A9s%20do%20Tour%20360%C2%BA
+PopupWebFrameBehaviour_29D2AC0F_37A1_087F_41C2_399705BC8C8A.url = //www.youtube.com/embed/3r5Cz5QQsqw?v=3r5Cz5QQsqw
+PopupWebFrameBehaviour_29E33C95_3667_0863_41B4_37166C525C85.url = //www.youtube.com/embed/-qOFWJ1NFLA?v=-qOFWJ1NFLA&t=10s
